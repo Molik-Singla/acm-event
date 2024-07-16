@@ -11,7 +11,7 @@ const Contact = () => {
 				backgroundPosition: "center",
 			}}
 		>
-			<section className="w-full h-full min-h-screen flex justify-center items-center bg-[rgba(0,0,0,0.7)]">
+			<section className="w-full h-full min-h-screen flex justify-center items-center bg-[rgba(0,0,0,0.5)] py-8">
 				<section className="w-full max-w-7xl flex flex-col md:flex-row items-center">
 					<section className="w-full">
 						<div>
